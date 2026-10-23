@@ -2,6 +2,8 @@
 
 # S.A.G.E — AI Code Reviewer
 
+### Smart Automated Generation and Evaluation
+
 **Paste code. Get a scored review, a security audit, a plain-English explanation, and an auto-fixed version — in seconds.**
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
@@ -45,7 +47,7 @@
 
 ## Overview
 
-**S.A.G.E** is a browser-based AI code review tool. Developers paste a snippet into a Monaco-powered editor, pick a language, and S.A.G.E sends it to Google's Gemini model with purpose-built system prompts. Depending on the action chosen, it returns one of three things:
+**S.A.G.E** (**S**mart **A**utomated **G**eneration and **E**valuation) is a browser-based AI code review tool. Developers paste a snippet into a Monaco-powered editor, pick a language, and S.A.G.E sends it to Google's Gemini model with purpose-built system prompts. Depending on the action chosen, it returns one of three things:
 
 | Action | Output |
 |---|---|
