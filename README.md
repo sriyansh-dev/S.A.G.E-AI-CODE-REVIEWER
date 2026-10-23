@@ -16,8 +16,9 @@
 </div>
 
 <div align="center">
-
-<img src="./SAMPLE.png" alt="S.A.G.E AI Code Reviewer: editor on the left, analysis report with overall score, score breakdown, summary and critical issues on the right" width="900" />
+Screenshot_20261023_223916.png
+<img src="./Screenshot_20261023_223924.png" alt="S.A.G.E AI Code Reviewer: editor on the left, analysis report with overall score, score breakdown, summary and critical issues on the right" width="900" />
+<img src="./Screenshot_20261023_223916.png" alt="S.A.G.E AI Code Reviewer: editor on the left, analysis report with overall score, score breakdown, summary and critical issues on the right" width="900" />
 
 <sub>S.A.G.E reviewing its own source code: overall score, category breakdown, summary, and critical issues.</sub>
 
